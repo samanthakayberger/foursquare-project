@@ -1,0 +1,50 @@
+body {
+            background: #93abc1;
+            font-family: 'Helvetica';
+            padding: 1px;
+            
+        }
+article {
+    border-radius: 10px;
+    background: url("http://socialmediaweek.org/crowdcentria/files/2015/12/newyork-dark.jpg");
+    height: 300px;
+
+        }
+#head {
+    text-align: center;
+    text-decoration:underline;
+    padding: 120px;
+    color: white;
+    font-size: 55px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    }
+
+.buttons{
+  border-radius: 5px;
+  color: white;
+  font-size: 25px;
+  font-family: Monospace;
+}
+.buttons:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#search {
+    border: 3px solid #00B200;
+    background-color: #00B200;
+}
+#clear{
+    border: 3px solid #a52a2a;
+    background-color:#a52a2a;
+    }
+#searchbar{
+    text-align: center;
+    }
+#type{
+    height: 40px;
+    font-family: monospace;
+    }
+#location{
+    font-family: monospace;
+   height: 40px;
+   width: 400px;
+    }
